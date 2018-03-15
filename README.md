@@ -1,3 +1,3 @@
 ## Leth
 
-develop contracts with Truffle
+create and run contracts with Truffle
